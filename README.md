@@ -1,11 +1,5 @@
 # Real-time Twitter Data Analysis using Flume, Kafka and Spark.
 
-## Authors
-* :man_technologist: **Vipul Tiwari**
-* :woman_technologist: **Roline Stapny Saldanha**
-* :man_technologist: **Devi Sandeep Endluri**
-* :man_technologist: **Kartik Venkataraman**
-* :woman_technologist: **Manseerat Batra**
 
 ## Architecture
 <h3 align="center">
